@@ -1,0 +1,42 @@
+agregor - RGMU - 09/12/2023
+
+           .-/+oossssoo+/-.               g0229061@vm-bd-rgmu
+        `:+ssssssssssssssssss+:`           -------------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.6 LTS x86_64
+    .ossssssssssssssssssdMMMNysssso.       Host: Google Compute Engine                          
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-1041-gcp
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 40 mins
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1683 (dpkg), 5 (snap)
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Terminal: /dev/pts/1
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel Xeon (2) @ 2.199GHz
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 321MiB / 954MiB
++sssshhhyNMMNyssssssssssssyNMMMysssssss+
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+
+
+
+ens4: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1460
+        inet 10.138.0.8  netmask 255.255.255.255  broadcast 0.0.0.0
+        inet6 fe80::4001:aff:fe8a:8  prefixlen 64  scopeid 0x20<link>
+        ether 42:01:0a:8a:00:08  txqueuelen 1000  (Ethernet)
+        RX packets 5740  bytes 738297 (738.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3457  bytes 509071 (509.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 112  bytes 11683 (11.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 112  bytes 11683 (11.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
