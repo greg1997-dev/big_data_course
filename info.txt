@@ -1,0 +1,31 @@
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 13.2 (22D49)
+      Kernel Version: Darwin 22.3.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: Andres’s MacBook Air
+      User Name: Andres Gregori (gregolas)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 33 days, 23 hours, 55 minutes
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir10,1
+      Model Number: MGN63LL/A
+      Chip: Apple M1
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 8 GB
+      System Firmware Version: 8419.80.7
+      OS Loader Version: 8419.80.7
+      Serial Number (system): FVHGPD0GQ6L4
+      Hardware UUID: 7E18F1C9-39A9-57F6-A6C8-4C91E4305AAA
+      Provisioning UDID: 00008103-001871913C33001E
+      Activation Lock Status: Enabled
+
